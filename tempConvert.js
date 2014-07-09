@@ -1,0 +1,1 @@
+//Out a temperature conversion. Convert it to fahrenheit and output "NN°C is NN°F".
